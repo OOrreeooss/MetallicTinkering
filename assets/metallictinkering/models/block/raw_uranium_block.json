@@ -1,0 +1,4 @@
+{
+  "parent": "block/cube_all",
+  "textures": { "all": "metallictinkering:block/raw_uranium_block" }
+}

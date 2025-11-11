@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "metallictinkering:block/deepslate_platinum_ore_top",
+    "down":     "metallictinkering:block/deepslate_platinum_ore_top",
+    "up":       "metallictinkering:block/deepslate_platinum_ore_top",
+    "north":    "metallictinkering:block/deepslate_platinum_ore",
+    "east":     "metallictinkering:block/deepslate_platinum_ore",
+    "south":    "metallictinkering:block/deepslate_platinum_ore",
+    "west":     "metallictinkering:block/deepslate_platinum_ore"
+  }
+}
