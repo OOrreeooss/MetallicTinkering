@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "metallictinkering:blocks/raw_platinum_block",
+  "pools": [{
+    "rolls": 1.0,
+    "bonus_rolls": 0.0,
+    "entries": [{ "type": "minecraft:item", "name": "metallictinkering:raw_platinum_block" }],
+    "conditions": [{ "condition": "minecraft:survives_explosion" }]
+  }]
+}

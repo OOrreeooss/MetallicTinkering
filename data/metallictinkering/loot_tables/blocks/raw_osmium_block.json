@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "metallictinkering:blocks/raw_osmium_block",
+  "pools": [{
+    "rolls": 1.0,
+    "bonus_rolls": 0.0,
+    "entries": [{ "type": "minecraft:item", "name": "metallictinkering:raw_osmium_block" }],
+    "conditions": [{ "condition": "minecraft:survives_explosion" }]
+  }]
+}
