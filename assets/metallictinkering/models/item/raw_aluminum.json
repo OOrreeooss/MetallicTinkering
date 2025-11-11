@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "metallictinkering:item/raw_aluminum" }
+}
