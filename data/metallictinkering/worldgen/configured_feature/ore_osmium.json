@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0,
+    "size": 8,
+    "targets": [
+      {
+        "state": { "Name": "metallictinkering:osmium_ore" },
+        "target": {
+          "tag": "minecraft:stone_ore_replaceables",
+          "predicate_type": "minecraft:tag_match"
+        }
+      },
+      {
+        "state": { "Name": "metallictinkering:deepslate_osmium_ore" },
+        "target": {
+          "tag": "minecraft:deepslate_ore_replaceables",
+          "predicate_type": "minecraft:tag_match"
+        }
+      }
+    ]
+  }
+}
