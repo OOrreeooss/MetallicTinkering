@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:raw_aluminum_block",
+  "key": { "#": { "item": "metallictinkering:raw_aluminum" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:raw_aluminum_block" }
+}

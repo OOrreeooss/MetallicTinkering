@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:raw_osmium_block",
+  "key": { "#": { "item": "metallictinkering:raw_osmium" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:raw_osmium_block" }
+}

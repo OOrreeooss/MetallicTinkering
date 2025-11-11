@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:raw_lead_block",
+  "key": { "#": { "item": "metallictinkering:raw_lead" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:raw_lead_block" }
+}

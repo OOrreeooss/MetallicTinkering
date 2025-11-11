@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:raw_tin",
+  "ingredients": [{ "item": "metallictinkering:raw_tin_block" }],
+  "result": {
+    "item": "metallictinkering:raw_tin",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_tin" },
+    { "item": "metallictinkering:tin_ore" },
+    { "item": "metallictinkering:deepslate_tin_ore" }
+  ],
+  "result": "metallictinkering:tin_ingot"
+}

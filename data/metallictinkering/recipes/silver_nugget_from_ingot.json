@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:silver_nugget",
+  "ingredients": [{ "item": "metallictinkering:silver_ingot" }],
+  "result": {
+    "item": "metallictinkering:silver_nugget",
+    "count": 9
+  }
+}

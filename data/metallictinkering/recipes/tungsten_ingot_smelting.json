@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_tungsten" },
+    { "item": "metallictinkering:tungsten_ore" },
+    { "item": "metallictinkering:deepslate_tungsten_ore" }
+  ],
+  "result": "metallictinkering:tungsten_ingot"
+}

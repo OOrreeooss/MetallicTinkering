@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:platinum_ingot",
+  "key": { "#": { "item": "metallictinkering:platinum_nugget" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:platinum_ingot" }
+}

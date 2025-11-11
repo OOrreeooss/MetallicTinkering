@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:raw_tungsten",
+  "ingredients": [{ "item": "metallictinkering:raw_tungsten_block" }],
+  "result": {
+    "item": "metallictinkering:raw_tungsten",
+    "count": 9
+  }
+}

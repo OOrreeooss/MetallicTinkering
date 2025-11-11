@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:raw_silver",
+  "ingredients": [{ "item": "metallictinkering:raw_silver_block" }],
+  "result": {
+    "item": "metallictinkering:raw_silver",
+    "count": 9
+  }
+}

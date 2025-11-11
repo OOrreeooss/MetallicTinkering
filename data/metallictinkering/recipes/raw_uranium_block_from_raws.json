@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:raw_uranium_block",
+  "key": { "#": { "item": "metallictinkering:raw_uranium" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:raw_uranium_block" }
+}

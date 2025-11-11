@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_uranium" },
+    { "item": "metallictinkering:uranium_ore" },
+    { "item": "metallictinkering:deepslate_uranium_ore" }
+  ],
+  "result": "metallictinkering:uranium_ingot"
+}

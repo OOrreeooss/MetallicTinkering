@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:uranium_ingot",
+  "key": { "#": { "item": "metallictinkering:uranium_nugget" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:uranium_ingot" }
+}

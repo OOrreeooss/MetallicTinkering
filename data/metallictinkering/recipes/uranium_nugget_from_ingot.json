@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:uranium_nugget",
+  "ingredients": [{ "item": "metallictinkering:uranium_ingot" }],
+  "result": {
+    "item": "metallictinkering:uranium_nugget",
+    "count": 9
+  }
+}

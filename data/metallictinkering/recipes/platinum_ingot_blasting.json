@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_platinum" },
+    { "item": "metallictinkering:platinum_ore" },
+    { "item": "metallictinkering:deepslate_platinum_ore" }
+  ],
+  "result": "metallictinkering:platinum_ingot"
+}

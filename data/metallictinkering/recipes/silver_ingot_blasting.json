@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_silver" },
+    { "item": "metallictinkering:silver_ore" },
+    { "item": "metallictinkering:deepslate_silver_ore" }
+  ],
+  "result": "metallictinkering:silver_ingot"
+}

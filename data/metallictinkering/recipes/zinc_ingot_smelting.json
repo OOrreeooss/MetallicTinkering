@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_zinc" },
+    { "item": "metallictinkering:zinc_ore" },
+    { "item": "metallictinkering:deepslate_zinc_ore" }
+  ],
+  "result": "metallictinkering:zinc_ingot"
+}
