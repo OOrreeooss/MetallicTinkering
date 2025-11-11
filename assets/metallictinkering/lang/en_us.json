@@ -1,0 +1,127 @@
+{
+  "metallictinkering.metallictinkering": "Metallic Tinkering",
+  
+  
+  "__comment": "Ore Metals",
+  
+  "block.metallictinkering.aluminum_ore": "Aluminum Ore",
+  "block.metallictinkering.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+  "item.metallictinkering.raw_aluminum": "Raw Aluminum",
+  "block.metallictinkering.raw_aluminum_block": "Block of Raw Aluminum",
+  "block.metallictinkering.aluminum_block": "Block of Aluminum",
+  "item.metallictinkering.aluminum_ingot":  "Aluminum Ingot",
+  "item.metallictinkering.aluminum_nugget": "Aluminum Nugget",
+  
+  
+  "block.metallictinkering.lead_ore": "Lead Ore",
+  "block.metallictinkering.deepslate_lead_ore": "Deepslate Lead Ore",
+  "item.metallictinkering.raw_lead": "Raw Lead",
+  "block.metallictinkering.raw_lead_block": "Block of Raw Lead",
+  "block.metallictinkering.lead_block": "Block of Lead",
+  "item.metallictinkering.lead_ingot":  "Lead Ingot",
+  "item.metallictinkering.lead_nugget": "Lead Nugget",
+  
+  
+  "block.metallictinkering.nickel_ore": "Nickel Ore",
+  "block.metallictinkering.deepslate_nickel_ore": "Deepslate Nickel Ore",
+  "item.metallictinkering.raw_nickel": "Raw Nickel",
+  "block.metallictinkering.raw_nickel_block": "Block of Raw Nickel",
+  "block.metallictinkering.nickel_block": "Block of Nickel",
+  "item.metallictinkering.nickel_ingot":  "Nickel Ingot",
+  "item.metallictinkering.nickel_nugget": "Nickel Nugget",
+  
+  
+  "block.metallictinkering.osmium_ore": "Osmium Ore",
+  "block.metallictinkering.deepslate_osmium_ore": "Deepslate Osmium Ore",
+  "item.metallictinkering.raw_osmium": "Raw Osmium",
+  "block.metallictinkering.raw_osmium_block": "Block of Raw Osmium",
+  "block.metallictinkering.osmium_block": "Block of Osmium",
+  "item.metallictinkering.osmium_ingot":  "Osmium Ingot",
+  "item.metallictinkering.osmium_nugget": "Osmium Nugget",
+  
+  
+  "block.metallictinkering.platinum_ore": "Platinum Ore",
+  "block.metallictinkering.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "item.metallictinkering.raw_platinum": "Raw Platinum",
+  "block.metallictinkering.raw_platinum_block": "Block of Raw Platinum",
+  "block.metallictinkering.platinum_block": "Block of Platinum",
+  "item.metallictinkering.platinum_ingot":  "Platinum Ingot",
+  "item.metallictinkering.platinum_nugget": "Platinum Nugget",
+  
+  
+  "block.metallictinkering.silver_ore": "Silver Ore",
+  "block.metallictinkering.deepslate_silver_ore": "Deepslate Silver Ore",
+  "item.metallictinkering.raw_silver": "Raw Silver",
+  "block.metallictinkering.raw_silver_block": "Block of Raw Silver",
+  "block.metallictinkering.silver_block": "Block of Silver",
+  "item.metallictinkering.silver_ingot":  "Silver Ingot",
+  "item.metallictinkering.silver_nugget": "Silver Nugget",
+  
+  
+  "block.metallictinkering.tin_ore": "Tin Ore",
+  "block.metallictinkering.deepslate_tin_ore": "Deepslate Tin Ore",
+  "item.metallictinkering.raw_tin": "Raw Tin",
+  "block.metallictinkering.raw_tin_block": "Block of Raw Tin",
+  "block.metallictinkering.tin_block": "Block of Tin",
+  "item.metallictinkering.tin_ingot":  "Tin Ingot",
+  "item.metallictinkering.tin_nugget": "Tin Nugget",
+  
+  
+  "block.metallictinkering.tungsten_ore": "Tungsten Ore",
+  "block.metallictinkering.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "item.metallictinkering.raw_tungsten": "Raw Tungsten",
+  "block.metallictinkering.raw_tungsten_block": "Block of Raw Tungsten",
+  "block.metallictinkering.tungsten_block": "Block of Tungsten",
+  "item.metallictinkering.tungsten_ingot":  "Tungsten Ingot",
+  "item.metallictinkering.tungsten_nugget": "Tungsten Nugget",
+  
+  
+  "block.metallictinkering.uranium_ore": "Uranium Ore",
+  "block.metallictinkering.deepslate_uranium_ore": "Deepslate Uranium Ore",
+  "item.metallictinkering.raw_uranium": "Raw Uranium",
+  "block.metallictinkering.raw_uranium_block": "Block of Raw Uranium",
+  "block.metallictinkering.uranium_block": "Block of Uranium",
+  "item.metallictinkering.uranium_ingot":  "Uranium Ingot",
+  "item.metallictinkering.uranium_nugget": "Uranium Nugget",
+  
+  
+  "block.metallictinkering.zinc_ore": "Zinc Ore",
+  "block.metallictinkering.deepslate_zinc_ore": "Deepslate Zinc Ore",
+  "item.metallictinkering.raw_zinc": "Raw Zinc",
+  "block.metallictinkering.raw_zinc_block": "Block of Raw Zinc",
+  "block.metallictinkering.zinc_block": "Block of Zinc",
+  "item.metallictinkering.zinc_ingot":  "Zinc Ingot",
+  "item.metallictinkering.zinc_nugget": "Zinc Nugget",
+  
+  
+  "__comment": "Alloy Metals",
+  
+  "block.metallictinkering.brass_block": "Block of Brass",
+  "item.metallictinkering.brass_ingot":  "Brass Ingot",
+  "item.metallictinkering.brass_nugget": "Brass Nugget",
+  
+  
+  "block.metallictinkering.bronze_block": "Block of Bronze",
+  "item.metallictinkering.bronze_ingot":  "Bronze Ingot",
+  "item.metallictinkering.bronze_nugget": "Bronze Nugget",
+  
+  
+  "block.metallictinkering.constantan_block": "Block of Constantan",
+  "item.metallictinkering.constantan_ingot":  "Constantan Ingot",
+  "item.metallictinkering.constantan_nugget": "Constantan Nugget",
+  
+  
+  "block.metallictinkering.electrum_block": "Block of Electrum",
+  "item.metallictinkering.electrum_ingot":  "Electrum Ingot",
+  "item.metallictinkering.electrum_nugget": "Electrum Nugget",
+  
+  
+  "block.metallictinkering.invar_block": "Block of Invar",
+  "item.metallictinkering.invar_ingot":  "Invar Ingot",
+  "item.metallictinkering.invar_nugget": "Invar Nugget",
+  
+  
+  "block.metallictinkering.pewter_block": "Block of Pewter",
+  "item.metallictinkering.pewter_ingot":  "Pewter Ingot",
+  "item.metallictinkering.pewter_nugget": "Pewter Nugget"
+}
