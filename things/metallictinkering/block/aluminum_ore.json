@@ -1,0 +1,9 @@
+{
+  "type": "plain",
+  "map_color": "stone",
+  "sound_type": "stone",
+  "destroy_time": 3,
+  "explosion_resistance": 3,
+  "requires_tool_for_drops": true,
+  "item": { "group": "metallictinkering:metallictinkering" }
+}

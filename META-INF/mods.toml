@@ -1,0 +1,28 @@
+modLoader="lowcodefml"
+loaderVersion="*"
+license="MIT"
+
+[[mods]]
+    modId="metallictinkering"
+    version="1.0.0"
+    displayName="Metallic Tinkering"
+    logoFile="pack.png"
+    authors="OOrreeooss"
+    description='''
+    Adds various ores & alloys that are compatible with Tinkers' Construct
+    '''
+    displayURL="https://modrinth.com/mod/metallic-tinkering"
+
+[[dependencies.metallictinkering]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="*"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.metallictinkering]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
