@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_aluminum" },
+    { "item": "metallictinkering:aluminum_ore" },
+    { "item": "metallictinkering:deepslate_aluminum_ore" }
+  ],
+  "result": "metallictinkering:aluminum_ingot"
+}

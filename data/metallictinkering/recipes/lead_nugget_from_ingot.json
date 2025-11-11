@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:lead_nugget",
+  "ingredients": [{ "item": "metallictinkering:lead_ingot" }],
+  "result": {
+    "item": "metallictinkering:lead_nugget",
+    "count": 9
+  }
+}

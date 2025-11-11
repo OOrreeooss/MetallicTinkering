@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:bronze_ingot",
+  "key": { "#": { "item": "metallictinkering:bronze_nugget" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:bronze_ingot" }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:bronze_nugget",
+  "ingredients": [{ "item": "metallictinkering:bronze_ingot" }],
+  "result": {
+    "item": "metallictinkering:bronze_nugget",
+    "count": 9
+  }
+}

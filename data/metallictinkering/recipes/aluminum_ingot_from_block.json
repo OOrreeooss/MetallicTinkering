@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:aluminum_ingot",
+  "ingredients": [{ "item": "metallictinkering:aluminum_block" }],
+  "result": {
+    "item": "metallictinkering:aluminum_ingot",
+    "count": 9
+  }
+}

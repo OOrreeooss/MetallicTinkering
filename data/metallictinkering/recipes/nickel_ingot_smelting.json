@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_nickel" },
+    { "item": "metallictinkering:nickel_ore" },
+    { "item": "metallictinkering:deepslate_nickel_ore" }
+  ],
+  "result": "metallictinkering:nickel_ingot"
+}

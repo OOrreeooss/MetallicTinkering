@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:brass_ingot",
+  "ingredients": [{ "item": "metallictinkering:brass_block" }],
+  "result": {
+    "item": "metallictinkering:brass_ingot",
+    "count": 9
+  }
+}

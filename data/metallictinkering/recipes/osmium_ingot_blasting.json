@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    { "item": "metallictinkering:raw_osmium" },
+    { "item": "metallictinkering:osmium_ore" },
+    { "item": "metallictinkering:deepslate_osmium_ore" }
+  ],
+  "result": "metallictinkering:osmium_ingot"
+}
