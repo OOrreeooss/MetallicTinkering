@@ -1,0 +1,20 @@
+{
+  "values": [
+    "#forge:nuggets/aluminum",
+    "#forge:nuggets/brass",
+    "#forge:nuggets/bronze",
+    "#forge:nuggets/constantan",
+    "#forge:nuggets/electrum",
+    "#forge:nuggets/invar",
+    "#forge:nuggets/lead",
+    "#forge:nuggets/nickel",
+    "#forge:nuggets/osmium",
+    "#forge:nuggets/pewter",
+    "#forge:nuggets/platinum",
+    "#forge:nuggets/silver",
+    "#forge:nuggets/tin",
+    "#forge:nuggets/tungsten",
+    "#forge:nuggets/uranium",
+    "#forge:nuggets/zinc"
+  ]
+}
