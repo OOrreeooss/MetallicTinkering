@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:lead_ore",
+  "key": { "#": { "item": "exdeorum:lead_ore_chunk" }},
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "exdeorum"
+    }
+  ],
+  "result": { "item": "metallictinkering:lead_ore" }
+}
