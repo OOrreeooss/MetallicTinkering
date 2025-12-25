@@ -1,10 +1,11 @@
 modLoader="lowcodefml"
 loaderVersion="*"
+issueTrackerURL="https://github.com/OOrreeooss/MetallicTinkering/issues"
 license="MIT"
 
 [[mods]]
     modId="metallictinkering"
-    version="1.0.0"
+    version="1.1.0"
     displayName="Metallic Tinkering"
     logoFile="pack.png"
     authors="OOrreeooss"
@@ -14,15 +15,22 @@ license="MIT"
     displayURL="https://modrinth.com/mod/metallic-tinkering"
 
 [[dependencies.metallictinkering]]
+    modId="tconstruct"
+    mandatory=false
+    versionRange="[3.11.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.metallictinkering]]
     modId="jsonthings"
     mandatory=true
-    versionRange="*"
-    ordering="AFTER"
+    versionRange="[0.9.9,)"
+    ordering="NONE"
     side="BOTH"
 
 [[dependencies.metallictinkering]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.1]"
+    versionRange="[1.20.1,1.20.2)"
     ordering="NONE"
     side="BOTH"
