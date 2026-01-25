@@ -121,4 +121,9 @@
   "material.tconstruct.platinum.flavor": "Its what winners use!",
   "material.tconstruct.platinum.encyclopedia": "Grants 2-6 bonus nugget drops when mining ore, boosted at higher levels",
   "material.tconstruct.platinum.ranged": "Hitting a distant monster has a 5% chance per level to drop nuggets. 50 blocks or more drops platinum, 40 blocks gold, 30 blocks iron, and 20 blocks copper."
+
+  "__comment": "Other",
+
+  "item.metallictinkering.crude_iron": "Crude Iron",
+  "block.metallictinkering.crude_iron_block": "Crude Iron Block"
 }
