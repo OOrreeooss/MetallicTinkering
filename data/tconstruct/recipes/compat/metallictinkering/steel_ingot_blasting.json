@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metallictinkering"
+    }
+  ],
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 1.0,
+  "ingredient": [
+    { "item": "metallictinkering:crude_iron" }
+  ],
+  "result": "tconstruct:steel_ingot"
+}

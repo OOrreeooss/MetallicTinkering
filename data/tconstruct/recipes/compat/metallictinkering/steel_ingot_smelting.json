@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metallictinkering"
+    }
+  ],
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 1.0,
+  "ingredient": [
+    { "item": "metallictinkering:crude_iron" }
+  ],
+  "result": "tconstruct:steel_ingot"
+}
