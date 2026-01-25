@@ -22,6 +22,7 @@
     "#forge:storage_blocks/raw_osmium",
     "#forge:storage_blocks/raw_platinum",
     "#forge:storage_blocks/raw_silver",
+    "#forge:storage_blocks/raw_steel",
     "#forge:storage_blocks/raw_tin",
     "#forge:storage_blocks/raw_tungsten",
     "#forge:storage_blocks/raw_uranium",
