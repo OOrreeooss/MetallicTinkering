@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:crude_iron_block",
+  "key": { "#": { "item": "metallictinkering:crude_iron" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:crude_iron_block" }
+}

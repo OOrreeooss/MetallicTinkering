@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:crude_iron",
+  "ingredients": [
+    { "tag": "forge:raw_materials/iron" },
+    { "tag": "minecraft:coals" },
+    { "tag": "minecraft:coals" }
+  ],
+  "result": {
+    "item": "metallictinkering:crude_iron"
+  }
+}
