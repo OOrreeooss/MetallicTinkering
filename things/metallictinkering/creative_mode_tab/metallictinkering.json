@@ -1,3 +1,113 @@
 {
-  "icon": "metallictinkering:platinum_ingot"
+  "icon": "metallictinkering:platinum_ingot",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.metallictinkering.metallictinkering",
+  "items": [
+    "metallictinkering:aluminum_ingot",
+    "metallictinkering:aluminum_nugget",
+    "metallictinkering:aluminum_block",
+    "metallictinkering:aluminum_ore",
+    "metallictinkering:deepslate_aluminum_ore",
+    "metallictinkering:raw_aluminum",
+    "metallictinkering:raw_aluminum_block",
+
+    "metallictinkering:lead_ingot",
+    "metallictinkering:lead_nugget",
+    "metallictinkering:lead_block",
+    "metallictinkering:lead_ore",
+    "metallictinkering:deepslate_lead_ore",
+    "metallictinkering:raw_lead",
+    "metallictinkering:raw_lead_block",
+
+    "metallictinkering:nickel_ingot",
+    "metallictinkering:nickel_nugget",
+    "metallictinkering:nickel_block",
+    "metallictinkering:nickel_ore",
+    "metallictinkering:deepslate_nickel_ore",
+    "metallictinkering:raw_nickel",
+    "metallictinkering:raw_nickel_block",
+
+    "metallictinkering:osmium_ingot",
+    "metallictinkering:osmium_nugget",
+    "metallictinkering:osmium_block",
+    "metallictinkering:osmium_ore",
+    "metallictinkering:deepslate_osmium_ore",
+    "metallictinkering:raw_osmium",
+    "metallictinkering:raw_osmium_block",
+
+    "metallictinkering:platinum_ingot",
+    "metallictinkering:platinum_nugget",
+    "metallictinkering:platinum_block",
+    "metallictinkering:platinum_ore",
+    "metallictinkering:deepslate_platinum_ore",
+    "metallictinkering:raw_platinum",
+    "metallictinkering:raw_platinum_block",
+
+    "metallictinkering:silver_ingot",
+    "metallictinkering:silver_nugget",
+    "metallictinkering:silver_block",
+    "metallictinkering:silver_ore",
+    "metallictinkering:deepslate_silver_ore",
+    "metallictinkering:raw_silver",
+    "metallictinkering:raw_silver_block",
+
+    "metallictinkering:tin_ingot",
+    "metallictinkering:tin_nugget",
+    "metallictinkering:tin_block",
+    "metallictinkering:tin_ore",
+    "metallictinkering:deepslate_tin_ore",
+    "metallictinkering:raw_tin",
+    "metallictinkering:raw_tin_block",
+
+    "metallictinkering:tungsten_ingot",
+    "metallictinkering:tungsten_nugget",
+    "metallictinkering:tungsten_block",
+    "metallictinkering:tungsten_ore",
+    "metallictinkering:deepslate_tungsten_ore",
+    "metallictinkering:raw_tungsten",
+    "metallictinkering:raw_tungsten_block",
+
+    "metallictinkering:uranium_ingot",
+    "metallictinkering:uranium_nugget",
+    "metallictinkering:uranium_block",
+    "metallictinkering:uranium_ore",
+    "metallictinkering:deepslate_uranium_ore",
+    "metallictinkering:raw_uranium",
+    "metallictinkering:raw_uranium_block",
+
+    "metallictinkering:zinc_ingot",
+    "metallictinkering:zinc_nugget",
+    "metallictinkering:zinc_block",
+    "metallictinkering:zinc_ore",
+    "metallictinkering:deepslate_zinc_ore",
+    "metallictinkering:raw_zinc",
+    "metallictinkering:raw_zinc_block",
+
+    "metallictinkering:brass_ingot",
+    "metallictinkering:brass_nugget",
+    "metallictinkering:brass_block",
+
+    "metallictinkering:bronze_ingot",
+    "metallictinkering:bronze_nugget",
+    "metallictinkering:bronze_block",
+
+    "metallictinkering:constantan_ingot",
+    "metallictinkering:constantan_nugget",
+    "metallictinkering:constantan_block",
+
+    "metallictinkering:electrum_ingot",
+    "metallictinkering:electrum_nugget",
+    "metallictinkering:electrum_block",
+
+    "metallictinkering:invar_ingot",
+    "metallictinkering:invar_nugget",
+    "metallictinkering:invar_block",
+
+    "metallictinkering:pewter_ingot",
+    "metallictinkering:pewter_nugget",
+    "metallictinkering:pewter_block",
+
+    "metallictinkering:crude_iron",
+    "metallictinkering:crude_iron_block"
+  ]
 }
