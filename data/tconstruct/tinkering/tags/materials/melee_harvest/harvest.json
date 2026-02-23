@@ -1,5 +1,6 @@
 {
   "values": [
-    { "id": "tconstruct:platinum", "required": false }
+    { "id": "metallictinkering:platinum", "required": false }
   ]
+
 }
