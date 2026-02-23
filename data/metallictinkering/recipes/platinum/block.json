@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": { "item": "metallictinkering:platinum_block" },
+  "material": "metallictinkering:platinum",
+  "needed": 1,
+  "value": 9
+}

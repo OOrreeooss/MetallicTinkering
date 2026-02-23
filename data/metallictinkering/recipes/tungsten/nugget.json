@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": { "item": "metallictinkering:tungsten_nugget" },
+  "material": "metallictinkering:tungsten",
+  "needed": 9,
+  "value": 1
+}

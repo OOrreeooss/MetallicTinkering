@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "metallictinkering:tungsten",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_tungsten"
+  },
+  "temperature": 950
+}
