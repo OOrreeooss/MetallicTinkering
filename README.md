@@ -4,3 +4,5 @@ A thingpack that adds various ores and alloys that are meant to be compatible wi
 Requires the 1.20.1 version of Json Things (Only on CurseForge Sadly).
 
 Any suggestions or requests can go into the issues tab.
+
+If you can translate this into other languages it would be greatly appreciated.
