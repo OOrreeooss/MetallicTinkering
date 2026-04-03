@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "minecraft:coal",
+  "ingredients": [
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" },
+    { "item": "metallictinkering:coal_nugget" }
+  ],
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

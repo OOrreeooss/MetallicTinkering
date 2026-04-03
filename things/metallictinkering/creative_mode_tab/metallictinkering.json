@@ -1,7 +1,7 @@
 {
   "icon": "metallictinkering:platinum_ingot",
-  "after": ["tconstruct:world"],
   "translation_key": "itemGroup.metallictinkering.metallictinkering",
+  "after": ["tconstruct:world"],
   "items": [
     "metallictinkering:aluminum_ingot",
     "metallictinkering:aluminum_nugget",
@@ -108,6 +108,8 @@
     "metallictinkering:pewter_block",
 
     "metallictinkering:crude_iron",
-    "metallictinkering:crude_iron_block"
+    "metallictinkering:crude_iron_block",
+
+    "metallictinkering:coal_nugget"
   ]
 }
