@@ -1,6 +1,7 @@
 {
   "material.metallictinkering": {
-    "tungsten": "#D1C08B",
-    "platinum": "#A3E7FE"
+    "diamond":  "#8CF4E2",
+    "platinum": "#A3E7FE",
+    "tungsten": "#D1C08B"
   }
 }
