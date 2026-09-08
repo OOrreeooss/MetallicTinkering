@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "metallictinkering:nicrosil_nugget",
+  "ingredients": [{ "item": "metallictinkering:nicrosil_ingot" }],
+  "result": {
+    "item": "metallictinkering:nicrosil_nugget",
+    "count": 9
+  }
+}

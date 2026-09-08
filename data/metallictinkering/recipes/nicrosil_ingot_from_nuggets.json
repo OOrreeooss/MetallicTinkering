@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "metallictinkering:nicrosil_ingot",
+  "key": { "#": { "item": "metallictinkering:nicrosil_nugget" }},
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": { "item": "metallictinkering:nicrosil_ingot" }
+}

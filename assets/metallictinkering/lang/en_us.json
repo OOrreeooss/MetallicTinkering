@@ -105,17 +105,15 @@
   "item.metallictinkering.invar_ingot":  "Invar Ingot",
   "item.metallictinkering.invar_nugget": "Invar Nugget",
 
+  "block.metallictinkering.nicrosil_block": "Block of Nicrosil",
+  "item.metallictinkering.nicrosil_ingot":  "Nicrosil Ingot",
+  "item.metallictinkering.nicrosil_nugget": "Nicrosil Nugget",
+
   "block.metallictinkering.pewter_block": "Block of Pewter",
   "item.metallictinkering.pewter_ingot":  "Pewter Ingot",
   "item.metallictinkering.pewter_nugget": "Pewter Nugget",
 
   "__comment": "New Materials",
-
-  "material.metallictinkering.diamond": "Diamond",
-  "material.metallictinkering.diamond.flavor": "Propose with a pickaxe.",
-  "material.metallictinkering.diamond.encyclopedia": "Increased durability and stats",
-  "material.metallictinkering.diamond.ranged": "Increased durability and stats",
-  "material.metallictinkering.diamond.armor": "Increased durability and stats",
 
   "material.metallictinkering.platinum": "Platinum",
   "material.metallictinkering.platinum.flavor": "Its what winners use!",

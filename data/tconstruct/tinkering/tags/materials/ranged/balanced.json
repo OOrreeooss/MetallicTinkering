@@ -1,6 +1,6 @@
 {
+  "replace": false,
   "values": [
-    { "id": "metallictinkering:diamond", "required": false },
     { "id": "metallictinkering:platinum", "required": false }
   ]
 }
